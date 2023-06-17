@@ -1,0 +1,68 @@
+
+export const TeamList = [
+    {
+        key: 0,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    {
+        key: 1,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    {
+        key: 2,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    {
+        key: 3,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    {
+        key: 4,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    {
+        key: 5,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    {
+        key: 6,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    {
+        key: 7,
+        img:"https://d1idiaqkpcnv43.cloudfront.net/assets/webimages/about/Varun.png",
+        name: "Varun Chopra",
+        post: "CEO",
+        exp: "15+ years",
+        desc: "Nomura, Deutsche IIT-Madras",
+    },
+    
+]

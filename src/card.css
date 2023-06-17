@@ -1,0 +1,17 @@
+.card{
+    padding:  15px ;
+}
+.card:hover{
+    animation: pulse;
+    background-color: #fff;
+    box-shadow: 2px 4px #7e7d7d41;
+}
+.card img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.card h4, .card h5, .card p{
+        text-align: center;
+}
